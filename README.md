@@ -1,6 +1,6 @@
 # Oi, bem-vindo(a) ao meu meu GitHub!
 
-### Meu nome é Natalie, sou estudante de desenvolvimento front-end e também sou ilustradora há 2 anos.
+### Meu nome é Natalie, sou estudante de desenvolvimento front-end e também sou ilustradora!
 
 
 No momento, estou estudando HTML, CSS e JavaScript e pretendo futuramente trabalhar na área como web designer.
