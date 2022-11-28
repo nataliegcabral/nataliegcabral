@@ -6,7 +6,7 @@ Meus estudos têm foco em HTML, CSS e JavaScript com o intuito de me tornar uma 
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
 
-##
+## <br /> 📈 GitHub Analytics
 
 <div style"display: inline_block" align="center">
   <a href="https://github.com/nataliegcabral">
@@ -34,7 +34,7 @@ Meus estudos têm foco em HTML, CSS e JavaScript com o intuito de me tornar uma 
 </div>
 
 
-## <br /> Minhas redes sociais:
+## <br /> 🙋‍♀️ Minhas redes sociais:
 
 <a href="https://www.linkedin.com/in/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.behance.net/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a> 
