@@ -2,7 +2,7 @@
 
 ### Meu nome é Natalie, sou estudante de desenvolvimento de software!
 
-Meus estudos têm foco em HTML, CSS e JavaScript com o intuito de me tornar uma web developer. No momento, estou em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
+Meus estudos têm foco em HTML, CSS e JavaScript com o intuito de me tornar uma desenvolvedora web. No momento, estou em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
 
