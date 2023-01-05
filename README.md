@@ -1,8 +1,8 @@
 # Oi, bem-vindo(a) ao meu meu GitHub!
 
-### Meu nome é Natalie, sou estudante de desenvolvimento de software!
+### Sou uma desenvolvedora web que funciona a base de café preto!
 
-Meus estudos têm foco em HTML, CSS e JavaScript com o intuito de me tornar uma desenvolvedora web. No momento, estou em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
+Meus estudos têm foco em HTML, CSS e JavaScript. No momento, estou em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
 
