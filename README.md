@@ -1,8 +1,8 @@
 # Oi, bem-vindo(a) ao meu meu GitHub!
 
-### Sou uma desenvolvedora web que funciona a base de café preto!
+### Sou uma desenvolvedora web e estou sempre aprendendo coisas novas!
 
-Meus estudos têm foco em HTML, CSS e JavaScript. No momento, estou em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
+No momento, estou estudando frameworks e sigo em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
 
@@ -10,14 +10,14 @@ Meus estudos têm foco em HTML, CSS e JavaScript. No momento, estou em busca de 
 
 <div style"display: inline_block" align="center">
   <a href="https://github.com/nataliegcabral">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nataliegcabral&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliegcabral&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://readme-stats.clckblog.space/api?username=nataliegcabral&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=nataliegcabral&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 
 ## <br /> 💻 Linguagens e ferramentas que utilizo:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +25,7 @@ Meus estudos têm foco em HTML, CSS e JavaScript. No momento, estou em busca de 
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   
 </div>
 
