@@ -2,7 +2,7 @@
 
 ### Sou uma desenvolvedora web e estou sempre aprendendo coisas novas!
 
-No momento, estou estudando frameworks e sigo em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
+No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
 
