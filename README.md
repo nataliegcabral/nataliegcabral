@@ -31,7 +31,7 @@ No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de ap
 
 
 <div style="display: inline_block">
-  <img align="right" alt="natalie emote" height="200" style="border-radius:50px;" src="https://imgtr.ee/i/aUWjn">
+  <img align="right" alt="natalie emote" height="200" style="border-radius:50px;" src="https://imgtr.ee/images/2023/05/03/aUWjn.png">
 </div>
 
 
