@@ -2,9 +2,9 @@
 
 ### Sou uma desenvolvedora web e estou sempre aprendendo coisas novas!
 
-No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de aprimorar meus conhecimentos e conseguir um emprego na área.
+No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de aprimorar meus conhecimentos e alcançar meus objetivos.
 
-<a href="https://jefflin276.wixsite.com/pixeljeff" target="_blank"><img width=100% src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif"/></a>
+<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://imgtr.ee/images/2023/05/03/aUvB0.png" alt="aUvB0.png" border="0" /></a>
 
 ## <br /> 📈 GitHub Analytics
 
@@ -24,11 +24,8 @@ No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de ap
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt"NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" />
   
 </div>
 
@@ -42,6 +39,6 @@ No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de ap
 
 <a href="https://www.linkedin.com/in/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.behance.net/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a> 
-<a href="https://www.instagram.com/_natalie8g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.instagram.com/nataliegcabral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 
 
