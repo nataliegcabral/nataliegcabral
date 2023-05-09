@@ -4,7 +4,7 @@
 
 No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de aprimorar meus conhecimentos e alcançar meus objetivos.
 
-<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://imgtr.ee/images/2023/05/03/aUvB0.png" alt="aUvB0.png" border="0" /></a>
+<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://cdn.discordapp.com/attachments/681327728267493396/1105585866421842030/teladesaida.png" alt="Artwork" border="0" /></a>
 
 ## <br /> 📈 GitHub Analytics
 
