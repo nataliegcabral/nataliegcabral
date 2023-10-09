@@ -1,10 +1,12 @@
-# Oi, bem-vindo(a) ao meu meu GitHub!
+# Hi, welcome to my GitHub Profile!
 
-### Sou uma desenvolvedora web e estou sempre aprendendo coisas novas!
+### I'm a web dev who's always learning something new!
 
-No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de aprimorar meus conhecimentos e alcançar meus objetivos.
+Currently, I'm at web development college, improving my skills and knowledge to achieve my goals.
 
-<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://cdn.discordapp.com/attachments/681327728267493396/1105585866421842030/teladesaida.png" alt="Artwork" border="0" /></a>
+My hobby is digital art! I'm fascinated by it and think it's very fun to create whatever I want. This is why I ventured into the world of programming.
+
+<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://cdn.discordapp.com/attachments/681327728267493396/1105585866421842030/teladesaida.png" alt="pixelart made by me, inspired by a Studio Ghibli movie called Kiki's Delivery Service, It features a red-haired girl with two dogs, one lying in her lap, sleeping, and the other sitting beside her. They are gazing at a landscape with a river in the foreground." border="0" /></a>
 
 ## <br /> 📈 GitHub Analytics
 
@@ -15,7 +17,7 @@ No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de ap
 </div>
 
 
-## <br /> 💻 Linguagens e ferramentas que utilizo:
+## <br /> 💻 My most used languages and tools:
 
 <div style="display: inline_block" ><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -33,11 +35,11 @@ No momento, estou fazendo faculdade de desenvolvimento web e sigo em busca de ap
 
 
 <div style="display: inline_block">
-  <img align="right" alt="natalie emote" height="200" style="border-radius:50px;" src="https://imgtr.ee/images/2023/05/03/aUWjn.png">
+  <img align="right" alt="natalie emote" height="250" " src="https://cdn.discordapp.com/attachments/866570373931859978/1160929224425750598/tatalo.png?ex=65367298&is=6523fd98&hm=cd4507a29dda2e409a82c9e02eb6b7bcb307ad7d1c1e5c8fd55eee40ce355f00&">
 </div>
 
 
-## <br /> 🙋‍♀️ Minhas redes sociais:
+## <br /> 🙋‍♀️ You can find me on:
 
 <a href="https://www.linkedin.com/in/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.behance.net/nataliegc/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a> 
