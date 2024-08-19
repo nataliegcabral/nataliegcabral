@@ -2,7 +2,7 @@
 
 ### I'm a web dev who's always learning something new!
 
-Currently, I'm at web development college, improving my skills and knowledge to achieve my goals.
+Currently, I'm studying web development at college, improving my skills and knowledge to achieve my goals.
 
 My hobby is digital art! I'm fascinated by it and think it's very fun to create whatever I want. This is why I ventured into the world of programming.
 
