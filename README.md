@@ -6,7 +6,7 @@ Currently, I'm studying web development at college, improving my skills and know
 
 My hobby is digital art! I'm fascinated by it and think it's very fun to create whatever I want. This is why I ventured into the world of programming.
 
-<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://cdn.discordapp.com/attachments/681327728267493396/1105585866421842030/teladesaida.png" alt="pixelart made by me, inspired by a Studio Ghibli movie called Kiki's Delivery Service, It features a red-haired girl with two dogs, one lying in her lap, sleeping, and the other sitting beside her. They are gazing at a landscape with a river in the foreground." border="0" /></a>
+<a href="https://www.behance.net/nataliegc" target="_blank"><img src="https://cdn.discordapp.com/attachments/866570373931859978/1275242893807845387/teladesaida.png?ex=66c52dfe&is=66c3dc7e&hm=bb745ba396c0d52a625f1b0b35db5fa8df62919372d39d657d84995d3f6de1a0&" alt="pixelart made by me, inspired by a Studio Ghibli movie called Kiki's Delivery Service, It features a red-haired girl with two dogs, one lying in her lap, sleeping, and the other sitting beside her. They are gazing at a landscape with a river in the foreground." border="0" /></a>
 
 ## <br /> 📈 GitHub Analytics
 
